@@ -1,5 +1,6 @@
 <?php
 
-echo "Dit is een oefening met Git"
+echo "Versie 2.x:"
+echo "Dit is een oefening met Git";
 
 ?>
